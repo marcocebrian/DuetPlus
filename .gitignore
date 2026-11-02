@@ -1,0 +1,14 @@
+# Tooling / OS
+.claude/
+.DS_Store
+.idea/
+*.iml
+
+# Release artifacts (published as GitHub release assets)
+dist/
+
+# Native core builds
+core/build-*/
+
+# Web bundle sources' dependencies (bundle is committed in app/assets)
+app/web_sabr/node_modules/

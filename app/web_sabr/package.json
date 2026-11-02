@@ -1,0 +1,1 @@
+{"name":"duet-sabr","private":true,"type":"module","dependencies":{"bgutils-js":"^4.0.3","esbuild":"^0.28.2","googlevideo":"^5.0.1","youtubei.js":"^18.3.0"}}
